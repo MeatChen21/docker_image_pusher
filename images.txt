@@ -1,2 +1,2 @@
-qdrant
+qdrant/qdrant:latest
 --platform=linux/amd64
