@@ -1,2 +1,2 @@
-qdrant/qdrant:latest
---platform=linux/arm64
+qdrant/qdrant
+--platform=linux/amd64
